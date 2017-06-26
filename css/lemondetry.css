@@ -1,0 +1,8 @@
+.imageday {
+  display: flex;
+}
+
+.toparticle {
+  border-bottom: 1px solid grey;
+  color : #222222;
+}
